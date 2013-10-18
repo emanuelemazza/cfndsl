@@ -232,6 +232,7 @@ Resources:
     Listeners: [ Listener ]
     AppCookieStickinessPolicy: AppCookieStickinessPolicy
     LBCookieStickinessPolicy:  LBCookieStickinessPolicy
+    Scheme: [ String ]
     SecurityGroups: [ String ]
     Subnets: [ String ]
    Attributes:
