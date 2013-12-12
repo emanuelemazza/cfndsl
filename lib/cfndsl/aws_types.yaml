@@ -99,6 +99,7 @@ Resources:
     KernelId: String
     KeyName: String
     Monitoring: String
+    NetworkInterfaces: [ Hash ]
     PlacementGroupName: String
     PrivateIpAddress: String
     RamDiskId: String
